@@ -14,4 +14,8 @@ public class HelloWorld {
         System.out.println("git hello");
         System.out.println("git hello");
     }
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
